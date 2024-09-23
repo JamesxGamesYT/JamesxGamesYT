@@ -1,6 +1,6 @@
 ### Hello! :smirk_cat:
 
-My name is James Lian and I'm a researcher, coder, mathematician, a land use/politics/catan enjoyer. I'm also a 2023 Atlas fellow. 
+My name is Jam Lian and I'm a researcher, coder, mathematician, a land use/politics/catan enjoyer. I'm also a 2023 Atlas fellow. 
 Here you will find many of my projects, both for research and personal purposes. 
 
 Mostly Python, but also some HTML/CSS/Javascript, C++, Java. 
